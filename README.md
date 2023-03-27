@@ -1,3 +1,3 @@
 # annotationPractice
 # study
-# annotation
+### spring 설정 xml ->  java config 
